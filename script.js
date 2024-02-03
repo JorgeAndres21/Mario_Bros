@@ -1,5 +1,5 @@
 const form = document.querySelector('.formularioFaleConosco')
-const mask = document.querySelector('.capaFormulario')
+const mask = document.querySelector('.mask')
 const btn = document.querySelector('.entreEmContato')
 
 function addMask (){
